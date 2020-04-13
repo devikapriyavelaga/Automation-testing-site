@@ -1,0 +1,7 @@
+chromeDriver=C:\Users\user\eclipse-workspace\AutomationTestingSite\src\test\resources\Binaries\chromedriver.exe
+
+firefoxDriver=C:\Users\user\eclipse-workspace\AutomationTestingSite\src\test\resources\Binaries\geckodriver.exe
+
+URL=http://practice.automationtesting.in/
+
+ExcelData=C:\Users\user\eclipse-workspace\AutomationTestingSite\src\test\resources\XLSX\Data.xlsm

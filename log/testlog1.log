@@ -1,0 +1,283 @@
+2020-04-11 13:33:04,312 [main] INFO stepDefination - myaccount
+2020-04-11 13:33:11,704 [main] INFO stepDefination - loginsuccessful
+2020-04-11 13:33:17,204 [main] INFO stepDefination - selected shop
+2020-04-11 13:35:20,605 [main] INFO stepDefination - myaccount
+2020-04-11 13:35:31,273 [main] INFO stepDefination - loginsuccessful
+2020-04-11 13:35:49,846 [main] INFO stepDefination - selected shop
+2020-04-11 13:35:51,571 [main] INFO stepDefination - opened cart to view  added items
+2020-04-11 13:39:53,894 [main] INFO stepDefination - myaccount
+2020-04-11 13:40:01,894 [main] INFO stepDefination - loginsuccessful
+2020-04-11 13:40:09,014 [main] INFO stepDefination - selected shop
+2020-04-11 13:40:18,792 [main] INFO stepDefination - opened cart to view  added items
+2020-04-11 13:42:54,952 [main] INFO stepDefination - myaccount
+2020-04-11 13:43:05,581 [main] INFO stepDefination - loginsuccessful
+2020-04-11 13:43:16,592 [main] INFO stepDefination - selected shop
+2020-04-11 13:43:21,686 [main] INFO stepDefination - opened cart to view  added items
+2020-04-11 13:43:43,003 [main] INFO stepDefination - proceed to checkout
+2020-04-11 14:15:22,073 [main] INFO stepDefination - myaccount
+2020-04-11 14:15:30,069 [main] INFO stepDefination - loginsuccessful
+2020-04-11 14:15:38,563 [main] INFO stepDefination - selected shop
+2020-04-11 14:15:39,301 [main] INFO stepDefination - opened cart to view  added items
+2020-04-11 14:19:25,276 [main] INFO stepDefination - myaccount
+2020-04-11 14:19:31,110 [main] INFO stepDefination - loginsuccessful
+2020-04-11 14:19:45,009 [main] INFO stepDefination - selected shop
+2020-04-11 14:19:45,630 [main] INFO stepDefination - opened cart to view  added items
+2020-04-11 14:24:04,611 [main] INFO stepDefination - myaccount
+2020-04-11 14:24:12,091 [main] INFO stepDefination - loginsuccessful
+2020-04-11 14:24:19,437 [main] INFO stepDefination - selected shop
+2020-04-11 14:24:32,847 [main] INFO stepDefination - opened cart to view  added items
+2020-04-11 14:49:13,576 [main] INFO stepDefination - myaccount
+2020-04-11 14:49:31,431 [main] INFO stepDefination - loginsuccessful
+2020-04-11 14:49:43,134 [main] INFO stepDefination - selected shop
+2020-04-11 14:49:48,177 [main] INFO stepDefination - Added to cart and viewed items
+2020-04-11 14:50:07,058 [main] INFO stepDefination - proceed to checkout
+2020-04-11 14:50:13,864 [main] INFO stepDefination - placed order
+2020-04-11 17:09:35,279 [main] INFO stepDefination - myaccount
+2020-04-11 17:09:41,396 [main] INFO stepDefination - loginsuccessful
+2020-04-11 17:10:02,405 [main] INFO stepDefination - selected shop
+2020-04-11 17:10:04,533 [main] INFO stepDefination - Added to cart and viewed items
+2020-04-11 17:10:14,631 [main] INFO stepDefination - proceed to checkout
+2020-04-11 17:10:27,446 [main] INFO stepDefination - placed order
+2020-04-12 11:09:42,661 [main] INFO stepDefination - myaccount
+2020-04-12 11:09:49,266 [main] INFO stepDefination - loginsuccessful
+2020-04-12 11:09:54,030 [main] INFO stepDefination - selected shop
+2020-04-12 11:10:01,146 [main] INFO stepDefination - Added to cart and viewed items
+2020-04-12 11:10:11,031 [main] INFO stepDefination - proceed to checkout
+2020-04-12 11:10:14,113 [main] INFO stepDefination - placed order
+2020-04-12 11:18:22,303 [main] INFO stepDefination - myaccount
+2020-04-12 11:18:29,087 [main] INFO stepDefination - loginsuccessful
+2020-04-12 11:18:34,468 [main] INFO stepDefination - selected shop
+2020-04-12 11:18:42,455 [main] INFO stepDefination - Added to cart and viewed items
+2020-04-12 11:18:57,049 [main] INFO stepDefination - proceed to checkout
+2020-04-12 11:19:00,646 [main] INFO stepDefination - placed order
+2020-04-12 11:42:46,197 [main] INFO stepDefination - myaccount
+2020-04-12 11:42:52,818 [main] INFO stepDefination - loginsuccessful
+2020-04-12 11:42:57,399 [main] INFO stepDefination - selected shop
+2020-04-12 11:42:59,577 [main] INFO stepDefination - Added to cart and viewed items
+2020-04-12 12:04:41,749 [main] INFO stepDefination - myaccount
+2020-04-12 12:04:51,677 [main] INFO stepDefination - loginsuccessful
+2020-04-12 12:04:55,438 [main] INFO stepDefination - selected shop
+2020-04-12 12:05:03,737 [main] INFO stepDefination - Added to cart and viewed items
+2020-04-12 12:05:14,282 [main] INFO stepDefination - proceed to checkout
+2020-04-12 12:05:21,567 [main] INFO stepDefination - placed order
+2020-04-12 12:10:44,496 [main] INFO stepDefination - myaccount
+2020-04-12 12:10:52,156 [main] INFO stepDefination - loginsuccessful
+2020-04-12 12:10:56,448 [main] INFO stepDefination - selected shop
+2020-04-12 12:11:04,944 [main] INFO stepDefination - Added to cart and viewed items
+2020-04-12 12:11:11,639 [main] INFO stepDefination - proceed to checkout
+2020-04-12 12:11:14,960 [main] INFO stepDefination - placed order
+2020-04-12 12:13:19,889 [main] INFO stepDefination - myaccount
+2020-04-12 12:13:29,716 [main] INFO stepDefination - loginsuccessful
+2020-04-12 12:13:38,111 [main] INFO stepDefination - selected shop
+2020-04-12 12:13:39,335 [main] INFO stepDefination - Added to cart and viewed items
+2020-04-12 12:20:02,067 [main] INFO stepDefination - myaccount
+2020-04-12 12:20:10,353 [main] INFO stepDefination - loginsuccessful
+2020-04-12 12:20:19,266 [main] INFO stepDefination - selected shop
+2020-04-12 12:20:20,905 [main] INFO stepDefination - Added to cart and viewed items
+2020-04-12 12:20:32,963 [main] INFO stepDefination - proceed to checkout
+2020-04-12 12:20:33,516 [main] INFO stepDefination - placed order
+2020-04-12 12:34:49,666 [main] INFO stepDefination - myaccount
+2020-04-12 12:34:55,156 [main] INFO stepDefination - loginsuccessful
+2020-04-12 12:34:58,088 [main] INFO stepDefination - selected shop
+2020-04-12 12:35:04,480 [main] INFO stepDefination - Added to cart and viewed items
+2020-04-12 12:35:11,349 [main] INFO stepDefination - proceed to checkout
+2020-04-12 12:35:15,133 [main] INFO stepDefination - placed order
+2020-04-12 12:41:42,544 [main] INFO stepDefination - myaccount
+2020-04-12 12:41:49,392 [main] INFO stepDefination - loginsuccessful
+2020-04-12 12:42:00,283 [main] INFO stepDefination - selected shop
+2020-04-12 12:42:00,888 [main] INFO stepDefination - Added to cart and viewed items
+2020-04-12 12:42:07,698 [main] INFO stepDefination - proceed to checkout
+2020-04-12 12:42:18,133 [main] INFO stepDefination - placed order
+2020-04-12 13:24:21,020 [main] INFO stepDefination - myaccount
+2020-04-12 13:24:28,958 [main] INFO stepDefination - loginsuccessful
+2020-04-12 13:24:33,684 [main] INFO stepDefination - selected shop
+2020-04-12 13:24:47,790 [main] INFO stepDefination - Added to cart and viewed items
+2020-04-12 13:24:58,653 [main] INFO stepDefination - proceed to checkout
+2020-04-12 13:25:22,206 [main] INFO stepDefination - placed order
+2020-04-12 15:43:34,963 [main] INFO stepDefination - myaccount
+2020-04-12 15:43:59,019 [main] INFO stepDefination - loginsuccessful
+2020-04-12 15:44:10,450 [main] INFO stepDefination - selected shop
+2020-04-12 15:44:14,243 [main] INFO stepDefination - Added to cart and viewed items
+2020-04-12 15:47:52,958 [main] INFO stepDefination - myaccount
+2020-04-12 15:47:58,281 [main] INFO stepDefination - loginsuccessful
+2020-04-12 15:48:03,227 [main] INFO stepDefination - selected shop
+2020-04-12 15:48:12,230 [main] INFO stepDefination - Added to cart and viewed items
+2020-04-12 15:52:10,838 [main] INFO stepDefination - myaccount
+2020-04-12 15:52:15,527 [main] INFO stepDefination - loginsuccessful
+2020-04-12 15:52:37,255 [main] INFO stepDefination - selected shop
+2020-04-12 15:52:37,772 [main] INFO stepDefination - Added to cart and viewed items
+2020-04-12 15:53:01,160 [main] INFO stepDefination - proceed to checkout
+2020-04-12 15:53:02,161 [main] INFO stepDefination - placed order
+2020-04-12 16:00:25,941 [main] INFO stepDefination - Launced browser
+2020-04-12 16:00:37,913 [main] INFO stepDefination - Opened my account
+2020-04-12 16:00:47,337 [main] INFO stepDefination - entered valid credentials
+2020-04-12 16:01:01,431 [main] INFO stepDefination - Launced browser
+2020-04-12 16:01:02,835 [main] INFO stepDefination - Opened my account
+2020-04-12 16:01:09,975 [main] INFO stepDefination - enters invalid credentials
+2020-04-12 16:01:19,251 [main] INFO stepDefination - application is closed
+2020-04-12 16:06:22,622 [main] INFO stepDefination - Launced browser
+2020-04-12 16:06:26,385 [main] INFO stepDefination - DemoSite is opened
+2020-04-12 16:06:48,719 [main] INFO stepDefination - Credentials are entered 
+2020-04-12 16:06:53,985 [main] INFO stepDefination - Clicked on submit button
+2020-04-12 16:06:59,300 [main] INFO stepDefination - Application is closed
+2020-04-12 16:25:58,901 [main] INFO stepDefination - Launced browser
+2020-04-12 16:26:12,028 [main] INFO stepDefination - DemoSite is opened
+2020-04-12 16:26:42,906 [main] INFO stepDefination - Credentials are entered 
+2020-04-12 16:26:48,206 [main] INFO stepDefination - Clicked on submit button
+2020-04-12 16:26:52,529 [main] INFO stepDefination - Application is closed
+2020-04-12 16:27:04,199 [main] INFO stepDefination - Launced browser
+2020-04-12 16:27:05,692 [main] INFO stepDefination - Opened my account
+2020-04-12 16:27:22,221 [main] INFO stepDefination - Launced browser
+2020-04-12 16:27:23,590 [main] INFO stepDefination - Opened my account
+2020-04-12 16:29:06,257 [main] INFO stepDefination - Launced browser
+2020-04-12 16:29:07,671 [main] INFO stepDefination - DemoSite is opened
+2020-04-12 16:29:24,960 [main] INFO stepDefination - Credentials are entered 
+2020-04-12 16:29:30,278 [main] INFO stepDefination - Clicked on submit button
+2020-04-12 16:29:36,090 [main] INFO stepDefination - Application is closed
+2020-04-12 16:30:43,308 [main] INFO stepDefination - Launced browser
+2020-04-12 16:30:44,367 [main] INFO stepDefination - DemoSite is opened
+2020-04-12 16:31:01,290 [main] INFO stepDefination - Credentials are entered 
+2020-04-12 16:31:06,487 [main] INFO stepDefination - Clicked on submit button
+2020-04-12 16:31:14,177 [main] INFO stepDefination - Application is closed
+2020-04-12 16:31:36,685 [main] INFO stepDefination - myaccount
+2020-04-12 16:31:41,815 [main] INFO stepDefination - loginsuccessful
+2020-04-12 16:31:44,887 [main] INFO stepDefination - selected shop
+2020-04-12 16:31:52,122 [main] INFO stepDefination - Added to cart and viewed items
+2020-04-12 16:32:01,918 [main] INFO stepDefination - proceed to checkout
+2020-04-12 16:32:04,758 [main] INFO stepDefination - placed order
+2020-04-12 16:51:28,769 [main] INFO stepDefination - Launced browser
+2020-04-12 16:51:32,062 [main] INFO stepDefination - DemoSite is opened
+2020-04-12 16:52:24,310 [main] INFO stepDefination - Credentials are entered 
+2020-04-12 16:52:29,568 [main] INFO stepDefination - Clicked on submit button
+2020-04-12 16:52:34,044 [main] INFO stepDefination - Application is closed
+2020-04-12 16:52:52,811 [main] INFO stepDefination - myaccount
+2020-04-12 16:53:02,844 [main] INFO stepDefination - loginsuccessful
+2020-04-12 16:53:08,014 [main] INFO stepDefination - selected shop
+2020-04-12 16:53:20,496 [main] INFO stepDefination - Added to cart and viewed items
+2020-04-12 16:53:35,700 [main] INFO stepDefination - proceed to checkout
+2020-04-12 16:53:39,504 [main] INFO stepDefination - placed order
+2020-04-12 16:54:11,204 [main] INFO stepDefination - Launced browser
+2020-04-12 16:54:12,475 [main] INFO stepDefination - Opened my account
+2020-04-12 16:54:32,264 [main] INFO stepDefination - Launced browser
+2020-04-12 16:54:33,981 [main] INFO stepDefination - Opened my account
+2020-04-12 20:13:30,025 [main] INFO stepDefination - launched browser
+2020-04-12 20:13:38,670 [main] INFO stepDefination - Clicked on shopping page
+2020-04-12 20:15:07,072 [main] INFO stepDefination - launched browser
+2020-04-12 20:15:10,063 [main] INFO stepDefination - Clicked on shopping page
+2020-04-12 20:17:09,546 [main] INFO stepDefination - launched browser
+2020-04-12 20:17:12,289 [main] INFO stepDefination - Clicked on shopping page
+2020-04-12 20:18:33,996 [main] INFO stepDefination - launched browser
+2020-04-12 20:18:35,533 [main] INFO stepDefination - Clicked on shopping page
+2020-04-12 20:27:32,096 [main] INFO stepDefination - launched browser
+2020-04-12 20:27:33,634 [main] INFO stepDefination - Clicked on shopping page
+2020-04-12 20:27:49,662 [main] INFO stepDefination - opens testcases to readmore
+2020-04-12 20:28:00,441 [main] INFO stepDefination - Browser is closed
+2020-04-12 20:30:03,320 [main] INFO stepDefination - Launced browser
+2020-04-12 20:30:06,488 [main] INFO stepDefination - DemoSite is opened
+2020-04-12 20:30:57,859 [main] INFO stepDefination - Credentials are entered 
+2020-04-12 20:31:03,065 [main] INFO stepDefination - Clicked on submit button
+2020-04-12 20:31:13,644 [main] INFO stepDefination - Application is closed
+2020-04-12 20:31:30,862 [main] INFO stepDefination - myaccount
+2020-04-12 20:31:37,845 [main] INFO stepDefination - loginsuccessful
+2020-04-12 20:31:42,664 [main] INFO stepDefination - selected shop
+2020-04-12 20:31:52,931 [main] INFO stepDefination - Added to cart and viewed items
+2020-04-12 20:32:01,902 [main] INFO stepDefination - proceed to checkout
+2020-04-12 20:32:06,035 [main] INFO stepDefination - placed order
+2020-04-12 20:32:24,998 [main] INFO stepDefination - launched browser
+2020-04-12 20:32:26,774 [main] INFO stepDefination - Clicked on shopping page
+2020-04-12 20:32:36,131 [main] INFO stepDefination - opens testcases to readmore
+2020-04-12 20:32:44,162 [main] INFO stepDefination - Browser is closed
+2020-04-12 20:37:16,711 [main] INFO stepDefination - Launced browser
+2020-04-12 20:37:17,928 [main] INFO stepDefination - DemoSite is opened
+2020-04-12 20:37:35,266 [main] INFO stepDefination - Credentials are entered 
+2020-04-12 20:37:40,476 [main] INFO stepDefination - Clicked on submit button
+2020-04-12 20:37:46,468 [main] INFO stepDefination - Application is closed
+2020-04-12 20:38:01,703 [main] INFO stepDefination - myaccount
+2020-04-12 20:38:11,123 [main] INFO stepDefination - loginsuccessful
+2020-04-12 20:38:15,302 [main] INFO stepDefination - selected shop
+2020-04-12 20:38:25,021 [main] INFO stepDefination - Added to cart and viewed items
+2020-04-12 20:38:38,414 [main] INFO stepDefination - proceed to checkout
+2020-04-12 20:38:39,158 [main] INFO stepDefination - placed order
+2020-04-12 20:38:53,475 [main] INFO stepDefination - launched browser
+2020-04-12 20:38:54,920 [main] INFO stepDefination - Clicked on shopping page
+2020-04-12 20:39:04,374 [main] INFO stepDefination - opens testcases to readmore
+2020-04-12 20:39:16,571 [main] INFO stepDefination - Browser is closed
+2020-04-12 20:39:43,383 [main] INFO stepDefination - Launced browser
+2020-04-12 20:39:49,416 [main] INFO stepDefination - Opened my account
+2020-04-12 20:39:59,119 [main] INFO stepDefination - entered valid credentials
+2020-04-12 20:40:24,196 [main] INFO stepDefination - Launced browser
+2020-04-12 20:40:25,731 [main] INFO stepDefination - Opened my account
+2020-04-12 20:40:34,653 [main] INFO stepDefination - enters invalid credentials
+2020-04-12 20:40:42,032 [main] INFO stepDefination - application is closed
+2020-04-13 09:50:00,517 [main] INFO stepDefination - Launced browser
+2020-04-13 09:50:09,118 [main] INFO stepDefination - DemoSite is opened
+2020-04-13 09:51:22,026 [main] INFO stepDefination - Credentials are entered 
+2020-04-13 09:51:27,671 [main] INFO stepDefination - Clicked on submit button
+2020-04-13 09:51:37,386 [main] INFO stepDefination - Application is closed
+2020-04-13 09:52:28,554 [main] INFO stepDefination - myaccount
+2020-04-13 09:52:51,221 [main] INFO stepDefination - loginsuccessful
+2020-04-13 09:53:12,811 [main] INFO stepDefination - selected shop
+2020-04-13 09:53:15,048 [main] INFO stepDefination - Added to cart and viewed items
+2020-04-13 09:55:14,611 [main] INFO stepDefination - launched browser
+2020-04-13 09:55:18,558 [main] INFO stepDefination - Clicked on shopping page
+2020-04-13 09:56:52,917 [main] INFO stepDefination - Launced browser
+2020-04-13 09:57:14,385 [main] INFO stepDefination - Opened my account
+2020-04-13 09:57:50,416 [main] INFO stepDefination - entered valid credentials
+2020-04-13 09:59:00,779 [main] INFO stepDefination - Launced browser
+2020-04-13 09:59:04,388 [main] INFO stepDefination - Opened my account
+2020-04-13 10:12:48,442 [main] INFO stepDefination - Launced browser
+2020-04-13 10:12:50,990 [main] INFO stepDefination - DemoSite is opened
+2020-04-13 10:15:21,145 [main] INFO stepDefination - launched browser
+2020-04-13 10:22:19,424 [main] INFO stepDefination - myaccount
+2020-04-13 10:26:39,528 [main] INFO stepDefination - Launced browser
+2020-04-13 10:55:18,803 [main] INFO stepDefination - myaccount
+2020-04-13 10:56:29,618 [main] INFO stepDefination - loginsuccessful
+2020-04-13 10:56:42,411 [main] INFO stepDefination - selected shop
+2020-04-13 10:56:43,547 [main] INFO stepDefination - Added to cart and viewed items
+2020-04-13 10:56:51,363 [main] INFO stepDefination - proceed to checkout
+2020-04-13 10:57:33,843 [main] INFO stepDefination - placed order
+2020-04-13 11:00:11,370 [main] INFO stepDefination - Launced browser
+2020-04-13 11:00:15,901 [main] INFO stepDefination - DemoSite is opened
+2020-04-13 11:19:04,612 [main] INFO stepDefination - Launced browser
+2020-04-13 11:53:16,754 [main] INFO stepDefination - myaccount
+2020-04-13 11:53:36,688 [main] INFO stepDefination - loginsuccessful
+2020-04-13 11:53:47,893 [main] INFO stepDefination - selected shop
+2020-04-13 11:54:23,395 [main] INFO stepDefination - Added to cart and viewed items
+2020-04-13 11:55:04,255 [main] INFO stepDefination - proceed to checkout
+2020-04-13 11:55:12,654 [main] INFO stepDefination - placed order
+2020-04-13 12:12:23,484 [main] INFO stepDefination - myaccount
+2020-04-13 12:13:31,677 [main] INFO stepDefination - loginsuccessful
+2020-04-13 12:14:05,822 [main] INFO stepDefination - selected shop
+2020-04-13 12:15:04,360 [main] INFO stepDefination - Added to cart and viewed items
+2020-04-13 12:16:04,174 [main] INFO stepDefination - proceed to checkout
+2020-04-13 12:16:05,981 [main] INFO stepDefination - placed order
+2020-04-13 12:21:56,087 [main] INFO stepDefination - Launced browser
+2020-04-13 12:22:08,297 [main] INFO stepDefination - DemoSite is opened
+2020-04-13 12:34:19,976 [main] INFO stepDefination - Launced browser
+2020-04-13 12:34:21,702 [main] INFO stepDefination - DemoSite is opened
+2020-04-13 12:35:02,123 [main] INFO stepDefination - Credentials are entered 
+2020-04-13 12:35:07,418 [main] INFO stepDefination - Clicked on submit button
+2020-04-13 12:35:22,665 [main] INFO stepDefination - Application is closed
+2020-04-13 12:36:12,887 [main] INFO stepDefination - launched browser
+2020-04-13 12:36:18,615 [main] INFO stepDefination - Clicked on shopping page
+2020-04-13 12:38:10,581 [main] INFO stepDefination - Launced browser
+2020-04-13 12:38:16,983 [main] INFO stepDefination - Opened my account
+2020-04-13 12:38:59,351 [main] INFO stepDefination - entered valid credentials
+2020-04-13 12:39:32,152 [main] INFO stepDefination - Launced browser
+2020-04-13 12:39:34,478 [main] INFO stepDefination - Opened my account
+2020-04-13 12:39:46,430 [main] INFO stepDefination - enters invalid credentials
+2020-04-13 13:26:35,191 [main] INFO stepDefination - Launced browser
+2020-04-13 13:27:43,786 [main] INFO stepDefination - DemoSite is opened
+2020-04-13 13:32:01,554 [main] INFO stepDefination - Launced browser
+2020-04-13 13:32:07,337 [main] INFO stepDefination - Opened my account
+2020-04-13 13:32:34,678 [main] INFO stepDefination - entered valid credentials
+2020-04-13 13:33:03,161 [main] INFO stepDefination - Launced browser
+2020-04-13 13:33:19,117 [main] INFO stepDefination - Opened my account
+2020-04-13 13:33:22,896 [main] INFO stepDefination - enters invalid credentials
+2020-04-13 13:33:30,260 [main] INFO stepDefination - application is closed
+2020-04-13 13:34:30,710 [main] INFO stepDefination - launched browser
+2020-04-13 13:34:54,386 [main] INFO stepDefination - Clicked on shopping page
+2020-04-13 13:40:29,745 [main] INFO stepDefination - launched browser
+2020-04-13 13:41:00,669 [main] INFO stepDefination - Clicked on shopping page
+2020-04-13 13:41:07,253 [main] INFO stepDefination - opens testcases to readmore
+2020-04-13 13:41:19,142 [main] INFO stepDefination - Browser is closed
